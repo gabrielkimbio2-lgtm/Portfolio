@@ -329,7 +329,7 @@ function App() {
                   <span className="project-tag">CSS3</span>
                 </div>
                 <div className="project-links" style={{ marginTop: 'auto' }}>
-                  <a href="#projects" className="project-link" id="project1-demo-btn">
+                  <a href="https://finance-dashboard-five-silk.vercel.app/" className="project-link" id="project1-demo-btn">
                     <ExternalLink size={16} /> Demo
                   </a>
                   <a href="https://github.com" target="_blank" rel="noreferrer" className="project-link" id="project1-github-btn">
