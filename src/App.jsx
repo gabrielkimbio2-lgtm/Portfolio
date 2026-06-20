@@ -192,7 +192,7 @@ function App() {
           <div className="container hero-grid">
             <div>
               <div className="hero-tag" id="status-tag">
-                <Sparkles size={14} /> Looking for Fall 2026 Internships
+                <Sparkles size={14} /> Responsive Web Application
               </div>
               <h1 className="hero-title">
                 Hi, I'm <span className="shimmer-text">Gabriel Kimbio</span>
